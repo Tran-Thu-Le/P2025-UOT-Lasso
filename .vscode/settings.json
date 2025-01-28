@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        // hiden pdf files except files end with w.pdf
+        "**/*[^w].pdf": true,
+        "*docs": true, 
+    },
+}
